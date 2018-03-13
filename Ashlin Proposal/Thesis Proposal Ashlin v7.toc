@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Background and Related Work}{4}
+\contentsline {section}{\numberline {3}Problem Statement}{5}
+\contentsline {subsection}{\numberline {3.1}Research Question}{5}
+\contentsline {subsection}{\numberline {3.2}Research Challenges}{5}
+\contentsline {section}{\numberline {4}Methodology}{6}
+\contentsline {subsection}{\numberline {4.1}Hardware Architecture}{6}
+\contentsline {subsection}{\numberline {4.2}Communication Middleware}{7}
+\contentsline {subsection}{\numberline {4.3}Software Architecture}{7}
+\contentsline {section}{\numberline {5}Time-Line}{8}
+\contentsline {section}{\numberline {6}Progress}{9}

@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Background and Related Work}{3}
+\contentsline {subsection}{\numberline {2.1}Development of Personal Integrated Environmental Monitoring System}{3}
+\contentsline {subsection}{\numberline {2.2}Air Sense: An intelligent home-based sensing system for indoor air quality analytics}{4}
+\contentsline {subsection}{\numberline {2.3}IOT Enabled Proactive Indoor Air Quality Monitoring System for Sustainable Health Management.}{5}
+\contentsline {subsection}{\numberline {2.4}Toward On-Demand Urban Air Quality Monitoring using Public Vehicles.}{5}
+\contentsline {subsection}{\numberline {2.5}Towards smart city: Sensing Air quality in city based on opportunistic crowd sensing.}{6}
+\contentsline {subsection}{\numberline {2.6}MyPart: Personal, portable, accurate airborne particle counting}{6}
+\contentsline {section}{\numberline {3}Problem Statement}{7}
+\contentsline {subsection}{\numberline {3.1}Research Question}{7}
+\contentsline {section}{\numberline {4}Solution Strategy}{7}
+\contentsline {subsection}{\numberline {4.1}Sensors and Communication}{7}
+\contentsline {subsection}{\numberline {4.2}Sensor Control and Processing Unit}{8}
+\contentsline {subsection}{\numberline {4.3}Mining Repository}{8}
+\contentsline {subsection}{\numberline {4.4}Animation and Analytics}{8}
+\contentsline {subsection}{\numberline {4.5}Messaging Middleware}{9}
+\contentsline {section}{\numberline {5}Research Challenges}{9}
+\contentsline {section}{\numberline {6}Time-Line}{9}
+\contentsline {section}{\numberline {7}Progress}{9}
+\contentsline {subsection}{\numberline {7.1}Architecture of Hardware}{9}
+\contentsline {subsection}{\numberline {7.2}Sensors}{10}
+\contentsline {subsection}{\numberline {7.3}Microcontroller Board}{10}
+\contentsline {subsection}{\numberline {7.4}Communication Link}{11}
+\contentsline {subsection}{\numberline {7.5}Software Platform}{11}

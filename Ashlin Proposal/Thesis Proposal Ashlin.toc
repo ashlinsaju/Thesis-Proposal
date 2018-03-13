@@ -1,0 +1,13 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2} Background and Related Work}{4}
+\contentsline {section}{\numberline {2.1}Development of Personal Integrated Environmental Monitoring System}{4}
+\contentsline {section}{\numberline {2.2}Air Sense: An intelligent home-based sensing system for indoor air quality analytics}{5}
+\contentsline {section}{\numberline {2.3}IOT Enabled Proactive Indoor Air Quality Monitoring System for Sustainable Health Management.}{5}
+\contentsline {section}{\numberline {2.4}Toward On-Demand Urban Air Quality Monitoring using Public Vehicles.}{6}
+\contentsline {section}{\numberline {2.5}Towards smart city: Sensing Air quality in city based on opportunistic crowd sensing.}{6}
+\contentsline {section}{\numberline {2.6}MyPart: Personal, portable, accurate airborne particle counting}{6}
+\contentsline {chapter}{\numberline {3}Problem Statement}{8}
+\contentsline {chapter}{\numberline {4}Solution Strategy}{9}
+\contentsline {chapter}{\numberline {5}Challenges}{10}
+\contentsline {chapter}{\numberline {6}Time-Line}{11}
+\contentsline {chapter}{\numberline {7}Summary}{12}
